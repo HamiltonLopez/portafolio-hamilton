@@ -1,12 +1,44 @@
-# React + Vite
+# 💻 Portafolio Profesional – Hamilton López
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+¡Bienvenido a mi portafolio de desarrollo de software!  
+Aquí encontrarás información sobre mí, mis proyectos, habilidades y tecnologías que domino, todo construido con React y Bootstrap.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Tecnologías utilizadas
 
-## Expanding the ESLint configuration
+- ⚛️ [React](https://reactjs.org/)
+- ⚡ [Vite](https://vitejs.dev/)
+- 🎨 [Bootstrap 5](https://getbootstrap.com/)
+- 📦 [npm](https://www.npmjs.com/)
+- 🖼️ Imágenes y estilos personalizados
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🧭 Estructura del sitio
+
+El portafolio está compuesto por una sola página (`single page application`) con las siguientes secciones:
+
+- 🏠 **Inicio** – Presentación personal y saludo
+- 👨‍💻 **Sobre mí** – Breve biografía profesional
+- 🛠️ **Skills** – Tecnologías y herramientas que manejo
+- 📁 **Proyectos** – Lista de proyectos con descripción y enlaces
+- 📞 **Contacto** *(opcional o futuro)*
+
+---
+
+## 📂 Estructura de carpetas
+
+```plaintext
+src/
+├── components/
+│   ├── Header.jsx
+│   ├── Home.jsx
+│   ├── About.jsx
+│   ├── Projects.jsx
+│   ├── Skills.jsx
+│   └── Footer.jsx
+├── styles/
+│   └── App.css
+├── App.jsx
+└── main.jsx
