@@ -23,7 +23,6 @@ El portafolio está compuesto por una sola página (`single page application`) c
 - 👨‍💻 **Sobre mí** – Breve biografía profesional
 - 🛠️ **Skills** – Tecnologías y herramientas que manejo
 - 📁 **Proyectos** – Lista de proyectos con descripción y enlaces
-- 📞 **Contacto** *(opcional o futuro)*
 
 ---
 
